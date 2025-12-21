@@ -208,6 +208,4 @@ Key observations from the experiments:
 ## Author
 Adrian S. Kazi
 
-Georgia Institute of Technology
-
 Independent Research Project — Reinforcement Learning
