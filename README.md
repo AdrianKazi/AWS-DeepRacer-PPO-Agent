@@ -44,15 +44,20 @@ This document includes:
 
 ---
 
-## Source Code Availability
+## Full Source Code (Private Repository)
 
-The complete implementation used to generate the results presented in this work is maintained in a \textbf{private repository}.
+The complete implementation used to generate the results in this study  
+(PPO agent, CNN architecture, training pipeline, reward functions, configs, and evaluation scripts)  
+is maintained in a **private repository**.
 
-The private codebase includes the full PPO training pipeline, CNN-based actor--critic architecture, reward functions, configuration files, and evaluation scripts.
+Access is restricted due to **non-disclosure and academic usage constraints**.  
+The repository is available **for review upon request**.
 
-Due to \textbf{non-disclosure and academic usage constraints}, the source code is not publicly available.  
-Access can be granted \textbf{upon request} for academic review or research collaboration.
-
+<p align="center">
+  <a href="https://github.com/AdrianKazi/AWS-DeepRacer-PPO-Agent-Full/tree/main" target="_blank">
+    <strong>View Full Repository</strong>
+  </a>
+</p>
 
 ---
 
