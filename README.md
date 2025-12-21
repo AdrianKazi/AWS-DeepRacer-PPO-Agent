@@ -11,7 +11,7 @@ The work focuses on **policy stability, reward-driven behavior, and visual gener
 The animation below shows a **fully trained PPO policy** operating in a **time-trial setting** on the `reInvent2019_wide` track.
 
 <p align="center">
-  <img src="demos/reInvent2019_wide-time_trial-my_fancy_agent-episode-0-ezgif.com-video-to-gif-converter.gif" width="420">
+  <img src="reInvent2019_wide-time_trial-my_fancy_agent-episode-0-ezgif.com-video-to-gif-converter.gif" width="420">
 </p>
 
 **What is shown:**
