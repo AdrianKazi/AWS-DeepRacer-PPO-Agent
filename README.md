@@ -44,6 +44,18 @@ This document includes:
 
 ---
 
+## Source Code Availability
+
+The complete implementation used to generate the results presented in this work is maintained in a \textbf{private repository}.
+
+The private codebase includes the full PPO training pipeline, CNN-based actor--critic architecture, reward functions, configuration files, and evaluation scripts.
+
+Due to \textbf{non-disclosure and academic usage constraints}, the source code is not publicly available.  
+Access can be granted \textbf{upon request} for academic review or research collaboration.
+
+
+---
+
 ## Project Overview
 
 - **Environment:** AWS DeepRacer (simulation)
