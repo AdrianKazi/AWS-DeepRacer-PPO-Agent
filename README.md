@@ -30,7 +30,7 @@ This behavior corresponds to the **final policy checkpoint**, after successful c
 The full experimental report is available as a PDF:
 
 <p align="center">
-  <a href="https://github.com/AdrianKazi/AWS-DeepRacer-PPO-Agent-Full/blob/main/AWS_DeepRacer_PPO_Agent_Architecture_and_Training.pdf" target="_blank">
+  <a href="https://github.com/AdrianKazi/AWS-DeepRacer-PPO-Agent/blob/main/AWS_DeepRacer_PPO_Agent_Architecture_and_Training.pdf" target="_blank">
     <strong>📄 View Paper</strong>
   </a>
 </p>
